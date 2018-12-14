@@ -10,18 +10,7 @@ defCanvasWidth=1200;
 defCanvasHeight=600;
 
 
-var mydata1 = {
-  labels : ["-3",-2,-1,"0",1,2,"3"],
-  xBegin : -3,
-  xEnd :  3,   
-	datasets : [
-		{
-			strokeColor : "rgba(220,220,220,1)",
-      data : [],
-      xPos : [],
-      title : "Sinus"
-		}
-	]
+
 }   
 var gauss_var=1;
 var gauss_mean=0;
